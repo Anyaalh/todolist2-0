@@ -18,6 +18,7 @@ export const Todolist = () => {
                 <button>Active</button>
                 <button>Completed</button>
             </div>
+            <div></div>
         </div>
     );
 };
